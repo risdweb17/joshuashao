@@ -1,0 +1,11 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	color:gray;
+}
+
+.drake{
+	background-image: url("../images/cheesecake.png");
+	background-size: cover;
+	width: 100%;
+    height: 400px;
+}
