@@ -1,0 +1,84 @@
+
+
+h1{
+font-family: 'Noto Sans', sans-serif;
+font-size: 100px;
+margin: 0;
+text-align: right;
+word-spacing: 0.3em;
+letter-spacing: 0.1em;
+padding-right: 170px;
+}
+
+.information{
+font-family: 'Noto Sans', sans-serif;
+font-size: 40px;
+margin 0;
+text-align: right;
+line-height: 40%;
+padding-right: 170px;
+}
+
+
+.work{
+font-family: 'Noto Sans', sans-serif;
+font-size: 30px;
+margin: 0;
+text-align: left;
+padding-left: 50px;
+overflow: auto;
+}
+
+#worktitle{
+	padding-top: 200px;
+font-size: 40px;
+}
+
+#bodytextone{
+	font-size: 15px;
+padding-left: 42px;
+}
+
+#bodytexttwo{
+	padding-top: 40px;
+	font-size: 15px;
+padding-left: 42px;
+}
+
+#bodytextthree{
+	padding-top: 40px;
+	font-size: 15px;
+}
+
+.awards{
+font-family: 'Noto Sans', sans-serif;
+font-size: 30px;
+margin: 0;
+text-align: left;
+overflow: auto;
+
+}
+
+#awardstitle{
+	padding-top: 50px;
+font-size: 40px;
+
+}
+
+#awardstextone{
+	font-size: 15px;
+	padding-left: 42px;
+}
+
+#awardstexttwo{
+	padding-top: 15px;
+	font-size: 15px;
+	padding-left: 42px;
+
+	padding-bottom: 100px;
+
+}
+
+.shift{
+	margin-left:102px;
+}
