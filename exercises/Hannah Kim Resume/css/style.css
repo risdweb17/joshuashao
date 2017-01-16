@@ -1,0 +1,35 @@
+html{
+	font-family: 'Rubik', sans-serif;
+}
+
+body{
+background-image: url("../images/pic1-01.png");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+float:top;
+}
+
+.container{
+margin-left: 680px;
+margin-right: 10%;
+margin-top: 200px;
+}
+
+.categories{
+font-size: 1.3em;
+letter-spacing: 0.04em;
+}
+
+.name{
+font-size: 1.5em;
+}
+
+.description{
+font-size: 1em;
+margin-bottom: 3em;
+}
+
+.text{
+
+}
