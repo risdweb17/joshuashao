@@ -1,0 +1,22 @@
+.stroke{
+width: 10%;
+height: 800px;
+float: left;
+background: red;
+opacity: 0.5;
+}
+
+.stroketwo{
+width: 10%;
+height: 800px;
+float: left;
+background: red;
+margin-left: 100px;
+opacity: 0.5;
+}
+
+.horizontal{
+width: 15%;
+height: 100px;
+background: red;
+}

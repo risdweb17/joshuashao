@@ -1,6 +1,8 @@
 body{
 /*background: url("images/blueskies.jpg") no-repeat center fixed;*/
-background-image: url("images/plane.gif");
-background-position: center;
-background-size: cover;
+background: url("images/plane.gif");
+background-size: 600px;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center; 
 }
