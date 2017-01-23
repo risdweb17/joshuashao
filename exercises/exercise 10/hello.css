@@ -1,0 +1,84 @@
+body{
+	margin-left: 0.7vw;
+}
+
+
+.stroke{
+	width: 8vw;
+	height: 98vh;
+	background: black;
+	opacity: ;
+	border-radius: 500px;
+	position: absolute;
+
+
+}
+
+.stroketwo{
+	width: 8vw;
+	height: 98vh;
+	background: black;
+	opacity: ;
+	border-radius: 500px;
+	position: absolute;
+	transform: translateX(10vw);
+}
+
+.horizontalhigh{
+	width: 18vw;
+	height: 15vh;
+	background: black;
+	opacity: ;
+	border-radius: 500px;
+	position: absolute;
+
+}
+
+.horizontalmid{
+	width: 18vw;
+	height: 15vh;
+	background: black;
+	opacity: ;
+	border-radius: 500px;
+	transform: translateY(40vh);
+	position: absolute;
+}
+
+.horizontallow{
+	display: inline-block;
+	width: 18vw;
+	height: 15vh;
+	background: black;
+	opacity: ;
+	border-radius: 500px;
+	transform: translateY(83vh);
+	position: absolute;
+}
+.H{
+	display: inline-block;
+	position: absolute;
+}
+
+.E{
+	display: inline-block;
+	position: absolute;
+	transform: translateX(20vw);
+}	
+
+.L{
+	display: inline-block;
+	position: absolute;
+	transform: translateX(40vw);
+}
+
+.L2{
+	display: inline-block;
+	position: absolute;
+	transform: translateX(60vw);
+}
+
+.O{
+	display: inline-block;
+	position: absolute;
+	transform: translateX(80vw);
+}

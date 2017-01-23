@@ -1,0 +1,9 @@
+.button{
+    height: 100px;
+    width: 100px;
+    background-color: #FA6900;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 2em;
+    font-family: sans-serif;
+}

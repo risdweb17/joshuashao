@@ -1,0 +1,54 @@
+html{
+font-family: 'Noto Sans', sans-serif;
+font-size: 1em;
+letter-spacing: .01em;
+}
+
+body{
+background-image: url("../images/pic1.jpg");
+background-position: 5% 50%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 48%;
+float:left;
+}
+
+.header{
+margin-left: 650px;
+}
+
+h1{
+font-weight: bold;
+font-size: 3em;
+letter-spacing: 0.03em;
+}
+
+.information{
+line-height: 120%;
+}
+
+.container{
+margin-left: 650px;
+margin-right: 10%;
+}
+
+.categories{
+margin-top: 4em;
+letter-spacing: 0.1em;
+/*color:red;*/
+font-size: 0.8em;
+}
+
+.name{
+}
+
+.text{
+font-size:0.7em;
+color:gray;
+padding-left: 0.25em;
+}
+
+.description{
+font-size:0.7em;
+margin-bottom: 3em;
+}
