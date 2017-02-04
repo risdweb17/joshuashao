@@ -1,0 +1,15 @@
+.chance{
+	font-size: 10em;
+	font-family: sans-serif;
+	display: flex;
+	justify-content: center;
+	
+}
+
+.printRapper{
+	font-size: 2em;
+	font-family: sans-serif;
+	display: flex;
+	justify-content: center;
+	vertical-align: center;
+}

@@ -1,26 +1,27 @@
 html{
 font-family: 'Noto Sans', sans-serif;
-font-size: 1em;
-letter-spacing: .01em;
+font-size: 1vw;
+letter-spacing: .01vw;
 }
 
 body{
 background-image: url("../images/pic1.jpg");
-background-position: 5% 50%;
+background-position: 10% 10%;
 background-repeat: no-repeat;
 background-attachment: fixed;
-background-size: 48%;
-float:left;
+background-size: 30%;
+
 }
 
 .header{
-margin-left: 650px;
+margin-left: 35%;
 }
 
 h1{
 font-weight: bold;
-font-size: 3em;
-letter-spacing: 0.03em;
+font-size: 3vw;
+letter-spacing: 0.03vw;
+padding: 0px;
 }
 
 .information{
@@ -28,27 +29,27 @@ line-height: 120%;
 }
 
 .container{
-margin-left: 650px;
-margin-right: 10%;
+margin-left: 35%;
+margin-right: 25%;
 }
 
 .categories{
-margin-top: 4em;
-letter-spacing: 0.1em;
+margin-top: 4vw;
+letter-spacing: 0.1vw;
 /*color:red;*/
-font-size: 0.8em;
+font-size: 0.8vw;
 }
 
 .name{
 }
 
 .text{
-font-size:0.7em;
+font-size:0.7vw;
 color:gray;
-padding-left: 0.25em;
+padding-left: 0.25vw;
 }
 
 .description{
-font-size:0.7em;
-margin-bottom: 3em;
+font-size:0.7vw;
+margin-bottom: 3vw;
 }

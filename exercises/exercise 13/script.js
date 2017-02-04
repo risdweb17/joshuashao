@@ -1,5 +1,6 @@
 $(document).ready(function() {
+	$('.hambagu').hide();
     $('.button').click(function() {
-        $('p').fadeToggle(1200);
+        $('.hambagu').slideToggle("slow");
     });
 });

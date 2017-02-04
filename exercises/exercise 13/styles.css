@@ -1,0 +1,28 @@
+.button{
+    height: 40px;
+    width: 200px;
+    background-color: red;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 2em;
+    font-family: sans-serif;
+}
+
+.hambagu{
+    font-size: 1em;
+    font-family: sans-serif;
+    width: 25%;
+    text-align: center;
+}
+
+.hambagu ul{
+    margin:0;
+    padding:0;
+}
+
+.hambagu p{
+    display: block;
+    padding:15px px 15px 0;
+    border: black 1px solid;
+    background-color: tomato;
+}

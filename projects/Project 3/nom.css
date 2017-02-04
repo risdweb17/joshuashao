@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'the_incredible_edible_typefMd';
+    src: url('fonts/the_incredible_edible_typeface-webfont.woff2') format('woff2'),
+         url('fonts/the_incredible_edible_typeface-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body{
+	font-family: 'Noto Sans', sans-serif;
+}
+
+.customtype{
+	font-family: 'the_incredible_edible_typefMd';
+}
+
+textarea {
+	width: 100%;
+	height: 500px;
+	border: 1px solid #000;
+	font-size: 3em;
+}
+
+.header{
+	position: absolute;
+	top:8px;
+	right:30px;
+}
+
+div.NOM{
+	position: relative;
+	height: 100%
+}
+
+.NOM{
+	font-size: 20em;
+	letter-spacing: 0.2em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#n {
+	animation: floater 5s infinite alternate ease-in-out 0s;
+}
+
+#o {
+	animation: floater 5s infinite alternate ease-in-out 0.2s;
+}
+
+#m {
+	animation: floater 5s infinite alternate ease-in-out 0.4s;
+}
+
+@keyframes floater{
+	0%{
+		transform: translateY(0);
+	}
+
+	25%{
+		
+		transform: translateY(200px);
+	}
+
+
+	75%{
+		transform: translateY(-200px);
+	}
+
+	100%{
+		transform: translateY(0);
+	}
+}
+
+div.about{
+	font-size: 3em;
+	height: 100%;
+}
