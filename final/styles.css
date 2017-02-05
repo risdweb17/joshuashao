@@ -1,0 +1,64 @@
+body{
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+h1{
+	padding-left: 50px;
+	font-size: 3em;
+	letter-spacing: 0.05em;
+}
+
+.flex-container{
+	background-color: blue;
+	padding: 10px;
+  	margin: 10px;
+  	list-style: none;
+  	display: flex;
+  	justify-content: space-around;
+  	flex-flow: wrap;
+}
+
+.flex-item{
+  background: tomato;
+  padding: 5px;
+  width: 500px;
+  height: 300px;
+
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+}
+
+.flexercises{
+	background: tomato;
+	height: 300px;
+	width: 320px;
+
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+}
+
+.flexercisestwo{
+	background: tomato;
+	height: 300px;
+	width: 250px;
+
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+}
+
+.readings{
+	background: tomato;
+	height: 100px;
+	width: 1000px;
+
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+}
